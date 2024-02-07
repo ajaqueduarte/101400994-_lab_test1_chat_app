@@ -1,0 +1,27 @@
+{
+  "name": "101400994-_lab_test1_chat_app",
+  "version": "1.0.0",
+  "description": "labtest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajaqueduarte/101400994-_lab_test1_chat_app.git"
+  },
+  "author": "Jaqueline Medeiros",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajaqueduarte/101400994-_lab_test1_chat_app/issues"
+  },
+  "homepage": "https://github.com/ajaqueduarte/101400994-_lab_test1_chat_app#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.1.1",
+    "socket.io": "^4.7.4"
+  }
+}
